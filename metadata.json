@@ -1,0 +1,7 @@
+{
+  "name": "BrightSmile Dental Clinic",
+  "description": "A modern, professional dental clinic website featuring appointment booking, service showcases, and an admin dashboard demo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
